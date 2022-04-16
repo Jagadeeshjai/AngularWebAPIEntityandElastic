@@ -1,10 +1,6 @@
 # BooksandAuthors
  WEBAPI, Entity Framework, Elastic & Angular
 
-
-
-
-The Emirates Centre for Strategic Studies and Research
 Author
 Id Integer Primary Key
 Name String Required
