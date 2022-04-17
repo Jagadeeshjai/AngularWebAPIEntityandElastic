@@ -4,19 +4,20 @@ This project is for demonstration purpose to verify the performance/how quick th
 ![image](https://user-images.githubusercontent.com/5477822/163704745-fb493ee1-899a-4050-adc9-f12a2f50d659.png)
 
 # Built With
- •	ASP.NET WEBAPI
- •	Entity Framework
- •	SQL
- •	AutoMapper
- •	Angular
- •	ElasticSearch 
- •	Bootstrap
-
+	1. ASP.NET WEBAPI
+	2. Entity Framework
+	3. SQL
+	4. AutoMapper
+	5. Angular
+	6. ElasticSearch
+	7. Bootstrap
 
 # Prerequisites
 Below was the list of software’s required to run this application 
 1.	Visual Stuido Code – Angular latest  (to run web application)
+
   https://angular.io/guide/setup-local
+  
   https://www.c-sharpcorner.com/article/how-to-install-angular/
 2. Visual Studio 2019 or version supports .Net framework 4.6.1
 3. Elastic Search (https://www.elastic.co/elasticsearch/)
