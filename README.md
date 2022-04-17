@@ -22,15 +22,13 @@ https://www.c-sharpcorner.com/article/how-to-install-angular/
 3.	Elastic Search (https://www.elastic.co/elasticsearch/)
 
 	Installation: - 
-	•	Download the Zip file and extract, add the bin path to Path variable under system variable 
-	•	Open the command prompt and run the command elasticsearch wait for the command to run 
-	•	Open the browser https://localhost:9200/ or http://localhost:9200/ (Disable the security in elasticsearch.yml if not required- eg : C:\elasticsearch 8.1.2\config\elasticsearch.yml)
+	1. Download the Zip file and extract, add the bin path to Path variable under system variable
+	2. Open the command prompt and run the command **elasticsearch** wait for the command to run 
+	3. Open the browser https://localhost:9200/ or http://localhost:9200/ (Disable the security in elasticsearch.yml if not required- eg : C:\elasticsearch 8.1.2\config\elasticsearch.yml)
 
 
 # How to run this application
-1.	Clone the repo or download
-
-   git clone https://github.com/jagadeesh-dotnet/AngularWebAPIEntityandElastic.git
+1.	Clone the repo or download     git clone https://github.com/jagadeesh-dotnet/AngularWebAPIEntityandElastic.git
 2.	Before running the applications check/modify the web.config
 3.	Make sure the elastic search is running
 4.	Run the application which seeds the 20k records (sample data) in SQL and Elastic Search (It takes around 2minutes)
