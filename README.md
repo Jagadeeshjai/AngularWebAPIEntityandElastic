@@ -1,7 +1,16 @@
-# BooksandAuthors 
+# Books and Authors 
 This project is for demonstration purpose to verify the performance/how quick the data of 20k records can be retrieved using EntityFramework / Elastic Search
 
 ![image](https://user-images.githubusercontent.com/5477822/163704745-fb493ee1-899a-4050-adc9-f12a2f50d659.png)
+
+# Description
+
+	Using Code-First approach in Entity Framework, Create two tables i.e Book and Author
+	Create a many to many relationships between Book and Author 
+	When application launches first time and there is no data in database, seed (insert) 20,000 records for books and each book should be tagged at least to i.e 2 authors randomly
+	
+ ![image](https://user-images.githubusercontent.com/5477822/163706946-db0bc7dc-b31c-4923-b76a-526965fd6044.png)
+
 
 # Built With
 	1. ASP.NET WEBAPI
