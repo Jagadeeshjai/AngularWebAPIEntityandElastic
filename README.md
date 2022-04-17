@@ -4,13 +4,11 @@ This project is for demonstration purpose to verify the performance/how quick th
 ![image](https://user-images.githubusercontent.com/5477822/163704745-fb493ee1-899a-4050-adc9-f12a2f50d659.png)
 
 # Description	
-This project is done:
-
-- using Code-First approach in Entity Framework, Create two tables i.e Book and Author
+This project is done using Code-First approach in Entity Framework, Create two tables i.e Book and Author
 - Create a many to many relationships between Book and Author
 - When application launches first time and there is no data in database, seed (insert) 20,000 records for books and each book should be tagged at least to i.e 2 authors randomly
  
-		![image](https://user-images.githubusercontent.com/5477822/163707134-01e123f6-076c-4104-8ed1-2a290a2457b3.png)
+![image](https://user-images.githubusercontent.com/5477822/163707134-01e123f6-076c-4104-8ed1-2a290a2457b3.png)
 
 
 
