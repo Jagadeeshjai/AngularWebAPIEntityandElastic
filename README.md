@@ -10,7 +10,9 @@ This project is done using Code-First approach in Entity Framework, Create two t
  
 ![image](https://user-images.githubusercontent.com/5477822/163707134-01e123f6-076c-4104-8ed1-2a290a2457b3.png)
 
-
+- Listing screen of Books with server-side pagination and fetch the data using EF via LINQ & ElasticSearch
+- Search by Books and Authors with a delay of 300ms through EF and Elastic
+- Print button which prints the entire grid (with no style) and View button to open PDF in new tab
 
 
 # Built With
