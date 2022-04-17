@@ -43,9 +43,11 @@ https://www.c-sharpcorner.com/article/how-to-install-angular/
 
 # How to run this application
 1.	Clone the repo or download     git clone https://github.com/jagadeesh-dotnet/AngularWebAPIEntityandElastic.git
-2.	Before running the applications check/modify the web.config
-3.	Make sure the elastic search is running
-4.	Run the application which seeds the 20k records (sample data) in SQL and Elastic Search (It takes around 2minutes)
-5.	Now run the web application
+2.	**Restore Nuget packages** for WEBAPI project - AngularAspNetAPIElasticsearch
+3.	Run **npm install** for WEB project to restore packages - BooksWeb
+4.	Before running the applications check/modify the web.config (eg: elastic password,  url etc.,)
+5.	Make sure the elastic search is running
+6.	Run the application which seeds the 20k records (sample data) in SQL and Elastic Search (It takes around 2minutes)
+7.	Now run the web application
 
 ![image](https://user-images.githubusercontent.com/5477822/163706110-10a0bab7-eddc-498a-8035-c7d01a5d5291.png)
