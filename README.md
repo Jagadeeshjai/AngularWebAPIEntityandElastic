@@ -9,7 +9,8 @@ This project is for demonstration purpose to verify the performance/how quick th
 	Create a many to many relationships between Book and Author 
 	When application launches first time and there is no data in database, seed (insert) 20,000 records for books and each book should be tagged at least to i.e 2 authors randomly
 	
- ![image](https://user-images.githubusercontent.com/5477822/163706946-db0bc7dc-b31c-4923-b76a-526965fd6044.png)
+	![image](https://user-images.githubusercontent.com/5477822/163707067-22b45e33-afdb-4c57-9964-c792c28dbcb4.png)
+
 
 
 # Built With
