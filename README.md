@@ -8,9 +8,6 @@ This project is done using Code-First approach in Entity Framework, Create two t
 - Create a many to many relationships between Book and Author
 - When application launches first time and there is no data in database, seed (insert) 20,000 records for books and each book should be tagged at least to i.e 2 authors randomly
  
-![image](https://user-images.githubusercontent.com/5477822/163707134-01e123f6-076c-4104-8ed1-2a290a2457b3.png)
-![image](https://user-images.githubusercontent.com/5477822/163707722-6d7c7958-24ad-485f-b336-ee04efba666d.png)
-
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/5477822/163707722-6d7c7958-24ad-485f-b336-ee04efba666d.png">
 </p>
