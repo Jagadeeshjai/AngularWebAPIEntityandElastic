@@ -14,16 +14,17 @@ This project is for demonstration purpose to verify the performance/how quick th
 
 # Prerequisites
 Below was the list of software’s required to run this application 
-1.	Visual Stuido Code – Angular latest  (to run web application)
+ 
+1.	Visual Stuido Code – Angular latest (to run web application)
+https://angular.io/guide/setup-local
+https://www.c-sharpcorner.com/article/how-to-install-angular/
+2.	Visual Studio 2019 or version supports .Net framework 4.6.1 3. 
+3.	Elastic Search (https://www.elastic.co/elasticsearch/)
+Installation: - 
+•	Download the Zip file and extract, add the bin path to Path variable under system variable 
+•	Open the command prompt and run the command elasticsearch wait for the command to run 
+•	Open the browser https://localhost:9200/ or http://localhost:9200/ (Disable the security in elasticsearch.yml if not required- eg : C:\elasticsearch 8.1.2\config\elasticsearch.yml)
 
-  https://angular.io/guide/setup-local
-  
-  https://www.c-sharpcorner.com/article/how-to-install-angular/
-2. Visual Studio 2019 or version supports .Net framework 4.6.1
-3. Elastic Search (https://www.elastic.co/elasticsearch/)
-	  Installation: - Download the Zip file and extract, add the bin path to Path variable under system variable
-                   Open the command prompt and run the command elasticsearch wait for the command to run
-                   Open the browser https://localhost:9200/ or http://localhost:9200/ (Disable the security in elasticsearch.yml if not required- eg : C:\elasticsearch 8.1.2\config\elasticsearch.yml)
 
 # How to run this application
 1.	Clone the repo or download
